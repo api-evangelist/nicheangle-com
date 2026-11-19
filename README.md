@@ -1,4 +1,4 @@
-# nicheangle-com
+# Niche
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,150 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nicheangle-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nicheangle.com/
+Niche provides a briefing service that follows professional fields, aggregating news, filings, discussions, and other sources to deliver concise daily or weekly email briefings. Users can customize niches, receive free weekly updates, or subscribe to a Pro plan for daily briefings, advanced features, and AI assistant integration. The platform emphasizes source transparency, independent verification, and offers MCP server endpoints for agent integration.
+
+**Areas:** AI · Briefing · News · Customization · Subscription · SaaS
+
+## Niche on APIs.io
+
+Everything profiled for Niche is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nicheangle-com/](https://apis.io/providers/nicheangle-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Niche Asset API](https://apis.io/apis/nicheangle-com/nicheangle-com-asset-api/) — The asset API from Niche — 2 operation(s) for asset.
+- [Niche Auth API](https://apis.io/apis/nicheangle-com/nicheangle-com-auth-api/) — The auth API from Niche — 11 operation(s) for auth.
+- [Niche Billing API](https://apis.io/apis/nicheangle-com/nicheangle-com-billing-api/) — The billing API from Niche — 6 operation(s) for billing.
+- [Niche Brand Kit API](https://apis.io/apis/nicheangle-com/nicheangle-com-brand-kit-api/) — The brand-kit API from Niche — 16 operation(s) for brand-kit.
+- [Niche Chat API](https://apis.io/apis/nicheangle-com/nicheangle-com-chat-api/) — The chat API from Niche — 9 operation(s) for chat.
+- [Niche Credits API](https://apis.io/apis/nicheangle-com/nicheangle-com-credits-api/) — The credits API from Niche — 2 operation(s) for credits.
+- [Niche Feed API](https://apis.io/apis/nicheangle-com/nicheangle-com-feed-api/) — The feed API from Niche — 13 operation(s) for feed.
+- [Niche Health API](https://apis.io/apis/nicheangle-com/nicheangle-com-health-api/) — The Health API from Niche — 2 operation(s) for health.
+- [Niche Landing API](https://apis.io/apis/nicheangle-com/nicheangle-com-landing-api/) — The landing API from Niche — 2 operation(s) for landing.
+- [Niche MCP API](https://apis.io/apis/nicheangle-com/nicheangle-com-mcp-api/) — The mcp API from Niche — 2 operation(s) for mcp.
+- [Niche Modules API](https://apis.io/apis/nicheangle-com/nicheangle-com-modules-api/) — The modules API from Niche — 3 operation(s) for modules.
+- [Niche OAuth API](https://apis.io/apis/nicheangle-com/nicheangle-com-oauth-api/) — The oauth API from Niche — 4 operation(s) for oauth.
+- [Niche Outputs API](https://apis.io/apis/nicheangle-com/nicheangle-com-outputs-api/) — The outputs API from Niche — 5 operation(s) for outputs.
+- [Niche Preview API](https://apis.io/apis/nicheangle-com/nicheangle-com-preview-api/) — The preview API from Niche — 1 operation(s) for preview.
+- [Niche Public API](https://apis.io/apis/nicheangle-com/nicheangle-com-public-api/) — The public API from Niche — 5 operation(s) for public.
+- [Niche Sessions API](https://apis.io/apis/nicheangle-com/nicheangle-com-sessions-api/) — The sessions API from Niche — 32 operation(s) for sessions.
+- [Niche Social API](https://apis.io/apis/nicheangle-com/nicheangle-com-social-api/) — The social API from Niche — 12 operation(s) for social.
+- [Niche Unsubscribe API](https://apis.io/apis/nicheangle-com/nicheangle-com-unsubscribe-api/) — The unsubscribe API from Niche — 1 operation(s) for unsubscribe.
+- [Niche Voice API](https://apis.io/apis/nicheangle-com/nicheangle-com-voice-api/) — The voice API from Niche — 4 operation(s) for voice.
+- [Niche Waitlist API](https://apis.io/apis/nicheangle-com/nicheangle-com-waitlist-api/) — The waitlist API from Niche — 1 operation(s) for waitlist.
+- [Niche Watched API](https://apis.io/apis/nicheangle-com/nicheangle-com-watched-api/) — The watched API from Niche — 5 operation(s) for watched.
+- [Niche Webhooks API](https://apis.io/apis/nicheangle-com/nicheangle-com-webhooks-api/) — The webhooks API from Niche — 1 operation(s) for webhooks.
+- [Niche .well Known API](https://apis.io/apis/nicheangle-com/nicheangle-com-well-known-api/) — The .well Known API from Niche — 6 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Niche Agentic Access](https://apis.io/agentic-access/nicheangle-com/nicheangle-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BrandKitResponse](https://apis.io/schemas/nicheangle-com/nicheangle-com-brand-kit-response/)
+- [BrandKitUpdate](https://apis.io/schemas/nicheangle-com/nicheangle-com-brand-kit-update/)
+- [ClientRegistrationRequest](https://apis.io/schemas/nicheangle-com/nicheangle-com-client-registration-request/)
+- [OutputResponse](https://apis.io/schemas/nicheangle-com/nicheangle-com-output-response/)
+- [SessionResponse](https://apis.io/schemas/nicheangle-com/nicheangle-com-session-response/)
+- [WatchedListResponse](https://apis.io/schemas/nicheangle-com/nicheangle-com-watched-list-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nicheangle Com Context](https://apis.io/jsonld/nicheangle-com/nicheangle-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Niche API Rules](https://apis.io/rules/nicheangle-com/nicheangle-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Niche Domain Security](https://apis.io/security/nicheangle-com/nicheangle-com-domain-security/)
+- [Niche Vulnerability Disclosure](https://apis.io/security/nicheangle-com/nicheangle-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Niche Plans Pricing](https://apis.io/plans/nicheangle-com/nicheangle-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nicheangle.com/)
+- [Documentation](https://nicheangle.com/learn)
+- [API reference](https://developers.nicheangle.com/)
+- [Pricing](https://nicheangle.com/pricing)
+- [Security](https://nicheangle.com/security)
+- [Terms of service](https://nicheangle.com/terms)
+- [Privacy policy](https://nicheangle.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.1** — developing · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 63.7 |
+
+**Agent readiness 49.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nicheangle-com/](https://apis.io/providers/nicheangle-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Niche: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nicheangle-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
